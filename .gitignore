@@ -49,6 +49,13 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
+# --- FMOD LOCAL CONFIG ---
+# Ignoramos la carpeta completa del plugin para que cada uno use la de su OS
+Plugins/FMODStudio*/
+
+# Pero nos aseguramos de NO ignorar el contenido de audio en Content
+!Content/FMOD/
+
 # Builds
 Build/*
 
