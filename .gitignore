@@ -79,3 +79,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.dll
+Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.dll
+Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+Plugins/FMODStudio/Binaries/Win64/fmodL.dll
